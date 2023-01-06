@@ -1,4 +1,4 @@
-# Lab-01: Basic Linux Commands
+# Lab-01: Basic Linux Commands/ Intro to C
 
 ## Name: 
 
